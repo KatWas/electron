@@ -1,0 +1,11 @@
+{
+  "name": "electron",
+  "version": "1.0.0",
+  "description": "id generator app",
+  "main": "index.js",
+  "author": "Katarzyna Wasilewska <kwasilewska2014@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "yarn": "^1.22.19"
+  }
+}
